@@ -1,0 +1,21 @@
+{
+  "entries": [
+    "components/carousel/carousel.js",
+    "components/display-hotel/display-hotel.js",
+    "components/facilities/facilities.js",
+    "components/hotel/hotel.js",
+    "components/modal/modal.js",
+    "components/navbar/navbar.js",
+    "components/photo/photo.js",
+    "components/popup/popup.js",
+    "components/property/property.js",
+    "components/rooms/rooms.js"
+  ],
+  "compiler": {
+    "name": "@stencil/core",
+    "version": "4.21.0",
+    "typescriptVersion": "5.5.3"
+  },
+  "collections": [],
+  "bundles": []
+}

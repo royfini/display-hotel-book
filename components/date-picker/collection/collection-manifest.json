@@ -1,0 +1,15 @@
+{
+  "entries": [
+    "components/date-range-picker/date-range-picker.js",
+    "components/first/first.js",
+    "components/guest/guest.js",
+    "components/second/second.js"
+  ],
+  "compiler": {
+    "name": "@stencil/core",
+    "version": "4.21.0",
+    "typescriptVersion": "5.5.3"
+  },
+  "collections": [],
+  "bundles": []
+}

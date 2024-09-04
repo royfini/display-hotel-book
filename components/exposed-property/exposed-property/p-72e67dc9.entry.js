@@ -1,0 +1,2 @@
+import{r,h as a}from"./p-05d95eea.js";const e=class{constructor(a){r(this,a)}render(){return a("div",{key:"19f54bbf5f3a9d5ea930b643ab6dd3ba1b212ca5"})}};export{e as rf_hotel};
+//# sourceMappingURL=p-72e67dc9.entry.js.map

@@ -1,0 +1,22 @@
+button {
+  border: none; /* Remove the border */
+  background-color: transparent;
+  font-size: large;
+}
+
+button:hover{
+  cursor: pointer;
+}
+
+.container {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  gap: 0.5rem;
+}
+
+.wrap {
+  display: flex;
+  flex-direction: column;
+}
