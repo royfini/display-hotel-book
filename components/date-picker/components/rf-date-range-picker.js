@@ -127,7 +127,7 @@ var newVNode = (tag, text) => {
   return vnode;
 };
 
-const dateRangePickerCss = ".container{display:flex;flex-direction:row;justify-content:space-between;align-items:center;font-size:larger;position:relative;position:fixed;bottom:0;left:25%;height:4.5rem;width:50%;gap:2rem;background-color:rgb(170, 165, 165);z-index:100}.calendar{display:flex;flex-direction:row;gap:20rem;position:absolute;top:0rem;transform:translateY(-22rem);left:2rem;z-index:100;background-color:whitesmoke}.date-input{padding:0.5rem}input{border:none;background-color:transparent;cursor:default;pointer-events:none;width:5rem}input:focus{outline:none}button{background-color:gray;border:none;height:100%;margin-left:2rem;padding:0 3rem;z-index:10}button:hover{cursor:pointer}";
+const dateRangePickerCss = ".container{display:flex;flex-direction:row;justify-content:space-between;align-items:center;font-size:larger;position:relative;position:fixed;bottom:0;left:25%;height:4.5rem;width:50%;gap:2rem;background-color:rgb(170, 165, 165);z-index:100}.calendar{display:flex;flex-direction:row;gap:18.5rem;position:absolute;top:0rem;transform:translateY(-22rem);left:2rem;z-index:100;background-color:whitesmoke}.date-input{padding:0.5rem}input{border:none;background-color:transparent;cursor:default;pointer-events:none;width:5rem}input:focus{outline:none}button{background-color:gray;border:none;height:100%;margin-left:2rem;padding:0 3rem;z-index:10}button:hover{cursor:pointer}";
 const RfDateRangePickerStyle0 = dateRangePickerCss;
 
 const DateRangerPicker = /*@__PURE__*/ proxyCustomElement(class DateRangerPicker extends H {
